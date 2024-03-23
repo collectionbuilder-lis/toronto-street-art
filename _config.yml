@@ -23,8 +23,7 @@ title: Street Art in Toronto
 tagline: A Digital Representation of a City's Ephemeral Art
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This is a surrogate record presenting a collection of street art from around Toronto. 
-This was developed for INF1321: Representing, Documenting, and Accessing the Cultural Record in Winter 2024"
+description: "This is a surrogate record representing a collection of street art from around Toronto developed for <i> INF1321: Representing, Documenting, and Accessing the Cultural Record</i> in Winter 2024."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Toronto; art; street art; graffiti; culture
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
