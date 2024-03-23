@@ -18,12 +18,13 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-csv
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Toronto Street Art
+title: Street Art in Toronto
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Digital Representation of a City's Ephemera
+tagline: A Digital Representation of a City's Ephemeral Art
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A surrogate record of street art in Toronto"
+description: "This is a surrogate record presenting a collection of street art from around Toronto. 
+This was developed for INF1321: Representing, Documenting, and Accessing the Cultural Record in Winter 2024"
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: Toronto; art; street art; graffiti; culture
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
