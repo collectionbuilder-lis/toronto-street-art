@@ -21,7 +21,7 @@ Special thank you to all the team members who contributed images and metadata fo
 - Daniel Hoogsteen
 - Michelle Pettis
 - Sabine O'Donnell
-- Sophie Corbiere
+- Sophie Corbière
 - Trevor Wilkes
 
 Comments, questions or corrections? Reach out to the team through this <a href="https://forms.gle/Pup4CNpaB8YogNM3A">this form</a>.
