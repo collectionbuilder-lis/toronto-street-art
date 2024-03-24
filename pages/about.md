@@ -15,3 +15,13 @@ credits: true
 This project was created for *INF1321: Representing, Documenting, and Accessing the Cultural Record* at the University of Toronto in March 2024.
 
 Special thank you to all the team members who contributed images and metadata for this project!
+
+- Allie Landy
+- Coral Markan Davidson
+- Daniel Hoogsteen
+- Michelle Pettis
+- Sabine O'Donnell
+- Sophie Corbiere
+- Trevor Wilkes
+
+Comments, questions or corrections? Reach out to the team through this <a href="https://forms.gle/Pup4CNpaB8YogNM3A">this form</a>.
